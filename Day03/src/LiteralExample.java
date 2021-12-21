@@ -7,7 +7,7 @@ public class LiteralExample {
 		String desc = "\"¿ÀÀ×\"\n °í°í¾Å\n È¨ \tÀ¸·Î";
 		System.out.println(desc);
 		
-		
+		// \r\n
 		
 	}
 	
