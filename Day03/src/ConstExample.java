@@ -17,7 +17,7 @@ public class ConstExample {
 		double PI = 3.14;
 		System.out.println(PI);
 		
-		PI = 3.20;
+		PI = 3.20; //상수는 변경할 수 없으므로 에러
 		System.out.println(PI);
 
 	}
