@@ -23,6 +23,14 @@ public class OpExample {
 		System.out.println(c);
 		
 		
+		int d = 10;
+		System.out.println(d--);
+		System.out.println(d);
+		
+		int e = 10;
+		System.out.println(--e);
+		System.out.println(e);
+		
 	}
 	
 }
